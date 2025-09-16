@@ -3,11 +3,20 @@
 
   
       ## Table of Contents
+-[Flutter Notes] (#flutter-notes)
+-[What is Flutter?] (#what-is-flutter)
+-
+
+
+
+
+
+  
 - [Day 1](#day-1)
   - [Notes](#notes)
   - [Practice](#practice)
 -
--## Flutter Definitions
+-## Flutter Definitions with structures
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 
