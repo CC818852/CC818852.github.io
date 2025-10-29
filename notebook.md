@@ -19,9 +19,7 @@
 -## Flutter Definitions with structures
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
-
 |------|----------------------------|----------------|-------------------|-------------|
-
 |    main()  | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` | void main() => runApp(MyPortfolioApp()); |  |
 |   MaterialApp   | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |  |
 |   Scaffold   | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  return Scaffold(body: Column( mainAxisAlignment: MainAxisAlignment.start, children: [ |  |
@@ -39,11 +37,14 @@
 |   BuildContext   | Aligns content in the center of the screen or container. | `Center(child: ...)` |  |  |
 |   super.key   | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` |  |  |
 |   const   | This marks a method as one that’s replacing a method in a parent class. | `@override` |  |  |
-|      | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |  |  |
-|      | Required in every widget class to describe what to show. | `build` |  |  |
-|      | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
-|      | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
-|      | A keyword that means the value won't change and is set once. | `const` |  |  |
+|input nextDouble|reads in a double(decimal) from the user| input.nextdouble|||
+|input nwxtBoolean||||
+
+
+
+
+
+
 -
 - [Flutter Defonitions](#flutter-definitions)
 
